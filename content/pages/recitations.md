@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides handouts from selected recitations.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ RECITATIONS
 R1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_973s09_rec01))
+({{% resource_link 72df70d3-5f48-0753-5455-eae6b9544fcf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ R1
 R2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_973s09_rec02))
+({{% resource_link aabf961e-e73a-8aaf-9115-b59708e73869 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ R4
 R5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_973s09_rec05))
+({{% resource_link 0c657b2b-04cf-5f3f-6434-120cfb875d00 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +73,7 @@ R5
 R6
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_973s09_rec06))
+({{% resource_link 0191f1dd-2ae9-6a35-8b4d-0d1abeccb2d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +91,7 @@ R7
 R8
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_973s09_rec08))
+({{% resource_link 54530ded-3f88-83b4-4c6f-5784bc5186a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ R8
 R9
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_973s09_rec09))
+({{% resource_link 14622766-7ef6-533e-acbe-ae72f43af528 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +109,7 @@ R9
 R10
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_973s09_rec10))
+({{% resource_link e26bc22b-6b82-9ec0-8069-80d26dd9fa7e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +127,7 @@ R11
 R12
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_973s09_rec12))
+({{% resource_link e12ade2e-364f-5d32-3d7c-ef3a39b21b54 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
