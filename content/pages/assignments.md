@@ -14,7 +14,7 @@ Homework Assignments
 
 Approximately one week was allowed for each assignment. There were a total of 26 sessions.
 
-\[Intensional Semantics\] = von Fintel, Kai, and Irene Heim. Lecture notes. "Intensional Semantics." http://kaivonfintel.org/teaching/. ([PDF](http://mit.edu/fintel/fintel-heim-intensional.pdf))
+\[Intensional Semantics\] = von Fintel, Kai, and Irene Heim. Lecture notes. "Intensional Semantics." http://kaivonfintel.org/teaching/. ({{% resource_link "5a054530-f4f5-4acc-b3f7-00bf0cffe05f" "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
